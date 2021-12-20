@@ -1,0 +1,3 @@
+[submodule "enzonaute/themes/showfolio"]
+	path = enzonaute/themes/showfolio
+	url = https://github.com/apvarun/showfolio-hugo-theme.git
